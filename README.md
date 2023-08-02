@@ -1,2 +1,2 @@
 # auto-turret
-Autonomous, networked, and remote controlled nerf turret
+Autonomous, networked, and remote controlled nerf turret using rpi
